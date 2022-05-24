@@ -1,0 +1,13 @@
+numpy
+Pillow
+yt-dlp
+aiohttp
+hachoir
+olefile
+requests
+tgcrypto
+aiofiles
+dnspython
+motor[srv]
+beautifulsoup4
+pyrogram==1.4.12
